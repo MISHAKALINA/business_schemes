@@ -1,1 +1,1 @@
-Рабочая версия второго процесса из business_schemes/all_schemes/2
+Версия второго процесса(business_schemes/all_schemes/2) над которой работает пользователь Roy Mustang
