@@ -1,1 +1,1 @@
-Рабочая версия первого процесса из business_schemes/all_schemes/1
+Версия первого процесса(business_schemes/all_schemes/1) над которой работает пользователь Kalinin Mikhail
