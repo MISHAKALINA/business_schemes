@@ -1,0 +1,25 @@
+{
+    "variables": [
+        {
+            "name": "name",
+            "description": "Имя пользователя",
+            "type": "string",
+            "accessRole": "user",
+            "defaultValue": "MISHA"
+        },
+        {
+            "name": "email",
+            "description": "Адрес электронной почты",
+            "type": "string",
+            "accessRole": "user",
+            "defaultValue": "MISHA@gmail.com"
+        },
+        {
+            "name": "account",
+            "description": "ID Аккаунта",
+            "type": "integer",
+            "accessRole": "user",
+            "defaultValue": 0
+        }
+    ]
+}

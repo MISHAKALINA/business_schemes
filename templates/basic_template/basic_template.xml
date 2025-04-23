@@ -1,0 +1,5 @@
+<user>
+  <name>{{name}}</name>
+  <email>{{email}}</email>
+  <account>{{account}}</account>
+</user>
